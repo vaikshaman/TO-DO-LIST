@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/To-Do-Img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lets grow intern"
+	}
+}
